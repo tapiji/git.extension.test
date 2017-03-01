@@ -1,5 +1,6 @@
 cloni
 sdsadasdasdasasda
+<<<<<<< HEAD
 asdasdasdasdasdasd
 sdasd
 asdasdasd
@@ -11,3 +12,13 @@ sdasdas
 dasdd
 asdasdasdasd
 asdasdasdasdd
+=======
+asdasdasd
+sdasddasdasd
+
+as
+dasdasdasda
+as
+dasdsdasd
+dsadsadasdasdasdas
+>>>>>>> master
